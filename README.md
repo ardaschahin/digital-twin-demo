@@ -12,6 +12,15 @@ This React app polls that endpoint once per second and displays:
 - Timestamp of the last update  
 - A small boiler image representing the physical asset  
 
+
+    Sensor1 --> PLC
+    PLC <-- OPC UA --> OPCClient
+    OPCClient --> TwinStore
+    TwinStore --> Api
+    Api --> ReactApp
+
+
+
 ## Tech Stack
 
 - **Frontend:** React, Vite, Ant Design  
@@ -25,9 +34,3 @@ This React app polls that endpoint once per second and displays:
    ```bash
    cd twin-dashboard
 
-
-    Sensor1 --> PLC
-    PLC <-- OPC UA --> OPCClient
-    OPCClient --> TwinStore
-    TwinStore --> Api
-    Api --> ReactApp
