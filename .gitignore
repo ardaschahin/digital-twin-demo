@@ -1,0 +1,13 @@
+# .NET build output
+backend/bin/
+backend/obj/
+backend/pki/
+
+# Node modules
+frontend/node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store

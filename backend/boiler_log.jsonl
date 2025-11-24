@@ -1,0 +1,16 @@
+{"timestamp":"2025-11-24T11:05:08.4291575Z","boiler":{"status":"UNKNOWN","metrics":{"current":67,"target":null},"alarms":{"overheated":null}}}
+{"timestamp":"2025-11-24T11:05:08.4624503Z","boiler":{"status":"HEATING","metrics":{"current":67,"target":80},"alarms":{"overheated":null}}}
+{"timestamp":"2025-11-24T11:05:08.4626456Z","boiler":{"status":"HEATING","metrics":{"current":67,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:09.4220136Z","boiler":{"status":"HEATING","metrics":{"current":66,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:10.4228731Z","boiler":{"status":"HEATING","metrics":{"current":65,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:11.4269497Z","boiler":{"status":"HEATING","metrics":{"current":64,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:12.4292912Z","boiler":{"status":"HEATING","metrics":{"current":63,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:13.4305414Z","boiler":{"status":"HEATING","metrics":{"current":62,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:14.4319566Z","boiler":{"status":"HEATING","metrics":{"current":61,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:15.4326383Z","boiler":{"status":"HEATING","metrics":{"current":60,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:16.4352786Z","boiler":{"status":"HEATING","metrics":{"current":59,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:17.4387024Z","boiler":{"status":"HEATING","metrics":{"current":58,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:18.439853Z","boiler":{"status":"HEATING","metrics":{"current":57,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:19.4409138Z","boiler":{"status":"HEATING","metrics":{"current":56,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:20.4420954Z","boiler":{"status":"HEATING","metrics":{"current":55,"target":80},"alarms":{"overheated":false}}}
+{"timestamp":"2025-11-24T11:05:21.4447378Z","boiler":{"status":"HEATING","metrics":{"current":54,"target":80},"alarms":{"overheated":false}}}
